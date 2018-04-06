@@ -12,7 +12,6 @@ body {
 }
 
 .content {
-	
 	width: 50%;
 	margin: auto;
 	background-color: #2A79B2;
@@ -26,7 +25,6 @@ header {
 footer {
 	text-align: center;
 }
-
 
 .image {
 	float: right;
